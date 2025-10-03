@@ -83,7 +83,7 @@ Software Engineer specializing in **multidisciplinary solutions** across web, mo
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayasurya261&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayasurya26&theme=github_dark" width="100%" />
 </div>
 
 <div align="center">
@@ -101,4 +101,5 @@ Software Engineer specializing in **multidisciplinary solutions** across web, mo
 </tr>
 </table>
 </div>
+
 

@@ -102,5 +102,24 @@ Software Engineer specializing in **multidisciplinary solutions** across web, mo
 </table>
 </div>
 
+## 🏆 Achievements & 🔥 Dev Combo Meter
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jayasurya261&theme=radical&margin-w=10&no-frame=true" height="140"/>
+  <img src="https://streak-stats.demolab.com/?user=jayasurya261&theme=radical&hide_border=true" height="140"/>
+</p>
+
+---
+
+## 📊 GitHub XP Charts
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayasurya261&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasurya261&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+---
+
+
 
 

@@ -111,14 +111,6 @@ Software Engineer specializing in **multidisciplinary solutions** across web, mo
 
 ---
 
-## 📊 GitHub XP Charts
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayasurya261&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasurya261&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
----
 
 
 
